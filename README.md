@@ -1,6 +1,6 @@
 # 📊 Energy demand analysis and weather conditions in Spain
 
-El objetivo de este proyecto es la construcción de un tablero o dashboard que resuma y organice toda la información del rendimiento financiero de la empresa FuturoTecno entre los periodos de 2020 y 2022 segmentada y organizada por país, marca y cliente. Se busca determinar y visualizar los ingresos, gastos, beneficios y márgenes totales para toda la operación así como tambien para cada país, marca y cliente.
+El principal objetivo de este proyecto es analizar la evolución de la demanda/generación de energia solar en las cinco principales ciudades españolas (Madrid, Barcelona, Bilbao, Valencia y Sevilla) durante el periodo comprendido entre los años 2015 y 2018, así como también la forma en la que diversas variables climaticas afectan la demanda/generacion de la energia solar a lo largo del dia. 
 
 
 ## 🗂 Índice 
