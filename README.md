@@ -1,4 +1,4 @@
-# 📊 Análisis Financiero FuturoTecno
+# 📊 Energy demand analysis and weather conditions in Spain
 
 El objetivo de este proyecto es la construcción de un tablero o dashboard que resuma y organice toda la información del rendimiento financiero de la empresa FuturoTecno entre los periodos de 2020 y 2022 segmentada y organizada por país, marca y cliente. Se busca determinar y visualizar los ingresos, gastos, beneficios y márgenes totales para toda la operación así como tambien para cada país, marca y cliente.
 
@@ -14,7 +14,8 @@ El objetivo de este proyecto es la construcción de un tablero o dashboard que r
 
 ## 🎨 Dashboard análisis financiero FuturoTecno
 
-<img width="1311" height="738" alt="image" src="https://github.com/user-attachments/assets/de35d93d-cb02-45ea-a8b3-39109c613a10" />
+<img width="1397" height="737" alt="image" src="https://github.com/user-attachments/assets/32e54168-2cfe-455a-9b46-be5bd75223b1" />
+
 
 
 ## 📖 Registros FuturoTecno
