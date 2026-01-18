@@ -39,36 +39,9 @@ A continuación se muestran los primeros 22 de los 1645 registros de los datos f
 
 ## 🔍 Cálculo de los ingresos, gastos, beneficios y márgenes totales
 
-A continuación se muestran las expresiones DAX utilizadas para cálcular los ingresos, gastos, beneficios y márgenes:
-
-* #### Para el cálculo de los ingresos: 
-
-<img width="453" height="31" alt="image" src="https://github.com/user-attachments/assets/f2ffe8b3-85b0-4fa7-aec1-d554929b4fca" />
 
 
-* #### Para el cálculo de los gastos:
 
-<img width="421" height="26" alt="image" src="https://github.com/user-attachments/assets/1ada59cc-0619-4ae2-b4eb-ed2b1d8957e9" />
-
-
-* #### Para el cálculo de los beneficios:
-
-<img width="449" height="29" alt="image" src="https://github.com/user-attachments/assets/e72412f1-96d4-46e4-a7f0-20d9b4d9db9c" />
-
-
-* #### Para el cálculo de los márgenes:
-
-<img width="563" height="29" alt="image" src="https://github.com/user-attachments/assets/be86ed02-ee34-4a47-84d9-3f5b691d24cd" />
-
-
-* #### Los ingresos, gastos, beneficios y márgenes totales de toda la operación para el periodo 2020 serian los siguientes: 
-
-<img width="852" height="93" alt="image" src="https://github.com/user-attachments/assets/553ada16-383d-45e0-8da1-68da67134408" />
-
-
-* #### En las siguentes tablas se muestran los beneficios y margenes por país, marca y cliente ademas del comportamiento mensual de los ingresos y gastos para el periodo 2020:
-
-<img width="1256" height="586" alt="image" src="https://github.com/user-attachments/assets/30f09575-5b7a-4194-932c-e7f2d00d3320" />
 
 
 >[!NOTE]
