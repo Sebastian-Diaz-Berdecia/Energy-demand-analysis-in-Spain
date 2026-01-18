@@ -56,7 +56,9 @@ A continuación se muestran los primeros 22 de los 1645 registros de los datos f
 
 <img width="605" height="346" alt="image" src="https://github.com/user-attachments/assets/4fe26798-9df3-4403-b705-4f91f4d015df" />
 
+<img width="488" height="498" alt="image" src="https://github.com/user-attachments/assets/872f9758-e95d-4ff5-bd99-3125cb4c75dd" />
 
+<img width="499" height="501" alt="image" src="https://github.com/user-attachments/assets/63113a95-08b0-488b-9bc9-5a7c2db08b05" />
 
 
 
