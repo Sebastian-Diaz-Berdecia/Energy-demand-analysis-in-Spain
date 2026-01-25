@@ -47,10 +47,11 @@ Como se puede observar, los meses con la mayor generación de energia solar entr
 
 ##
 
+* #### Generación solar anual entre 2015 y 2018: 
 <p align="center">
 <img width="830" height="299" alt="image" src="https://github.com/user-attachments/assets/1955f0c2-8700-4772-8c85-2441a6214204" />
 </p>
-
+Tal y como se puede apreciar entre los años 2015 y 2018, el año 2017 corresponde al año en donde se produjo el pico de generación de energia solar.
 ##
 
 <p align="center">
