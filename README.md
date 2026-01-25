@@ -55,6 +55,7 @@ Tal y como se puede apreciar entre los años 2015 y 2018, el año 2017 correspon
 
 ##
 
+* #### Comportamiento ciclico de la generación: 
 <p align="center">
 <img width="830" height="292" alt="image" src="https://github.com/user-attachments/assets/0b4111af-958d-486d-ac25-00268cdf46a0" />
 </p>
@@ -62,7 +63,7 @@ Aquí podemos observar como la generación de energia solar presenta un comporta
 
 ##
 
-* #### Comportamiento ciclico de la generación: 
+* #### Comporta: 
 <p align="center">
 <img width="664" height="361" alt="image" src="https://github.com/user-attachments/assets/c5710174-6b6c-410e-8a9f-82aea171ecec" />
 </p>
