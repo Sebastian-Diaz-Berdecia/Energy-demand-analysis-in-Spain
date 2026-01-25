@@ -39,16 +39,27 @@ A continuación se muestran los primeros 22 de los 1645 registros de los datos f
 
 ## 🔍 Cálculo de los ingresos, gastos, beneficios y márgenes totales
 
-
+* #### Para el cálculo de los ingresos:
+<p align="center">
 <img width="830" height="284" alt="image" src="https://github.com/user-attachments/assets/0ad26d5b-fd72-4771-a661-c91e6df521af" />
+</p>
+---
 
 <img width="830" height="299" alt="image" src="https://github.com/user-attachments/assets/1955f0c2-8700-4772-8c85-2441a6214204" />
 
+---
+
 <img width="830" height="292" alt="image" src="https://github.com/user-attachments/assets/0b4111af-958d-486d-ac25-00268cdf46a0" />
+
+---
 
 <img width="664" height="361" alt="image" src="https://github.com/user-attachments/assets/c5710174-6b6c-410e-8a9f-82aea171ecec" />
 
+---
+
 <img width="664" height="367" alt="image" src="https://github.com/user-attachments/assets/4a3f257b-c22c-42c7-bfd1-4e95b2a903e9" />
+
+---
 
 <img width="605" height="345" alt="image" src="https://github.com/user-attachments/assets/27735c04-6d94-4d6a-9372-4eaa3109981f" />
 
