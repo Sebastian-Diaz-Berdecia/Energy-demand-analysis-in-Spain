@@ -67,7 +67,6 @@ Aquí podemos observar como la generación de energia solar presenta un comporta
 <p align="center">
 <img width="664" height="361" alt="image" src="https://github.com/user-attachments/assets/c5710174-6b6c-410e-8a9f-82aea171ecec" />
 </p>
-
 Dentro de los cuatro años entre 2015 y 2018, la energia solar nunca deja de posicionarse en el sexto lugar del top 7 de las principales fuentes de energia en España.
 
 ##
@@ -76,6 +75,8 @@ Dentro de los cuatro años entre 2015 y 2018, la energia solar nunca deja de pos
 <p align="center">
 <img width="664" height="367" alt="image" src="https://github.com/user-attachments/assets/4a3f257b-c22c-42c7-bfd1-4e95b2a903e9" />
 </p>
+Se puede observar como a medida que se avanza hacia las 07:00 a.m. la generacion de energia empieza a aumentar y alcanza su punto maximo entre las 12:00 p.m y las 3:00 p.m para despues empezar a decrecer coincidiendo como se ha de esperar con la salida del sol en la mañana y con el cenit del dia alrededor de las 12:00 p.m - 01:00 p.m.
+
 
 ##
 
@@ -83,6 +84,7 @@ Dentro de los cuatro años entre 2015 y 2018, la energia solar nunca deja de pos
 <p align="center">
 <img width="605" height="345" alt="image" src="https://github.com/user-attachments/assets/27735c04-6d94-4d6a-9372-4eaa3109981f" />
 </p>
+Al comparar el comportamiento de la generación de energia con el comportamiento del porcentaje de humedad relativa a lo largo de un dia se puede observar que en general, alrededor de las 06:00 a.m. - 07:00 a.m. cuando el porcentaje de humedad relativa empieza a disminuir, la generacion de energia empieza a aumentar. Por el contrario, alrededor de las 04:00 p.m. cuando el porcentaje de humedad empieza a subir la generacion empieza a disminuir. 
 
 ##
 
