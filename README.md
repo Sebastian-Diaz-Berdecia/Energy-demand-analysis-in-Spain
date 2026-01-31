@@ -43,7 +43,7 @@ A continuación se muestran los primeros 22 de los 1645 registros de los datos f
 <p align="center">
 <img width="830" height="284" alt="image" src="https://github.com/user-attachments/assets/0ad26d5b-fd72-4771-a661-c91e6df521af" />
 </p>
-Como se puede observar, los meses en los que se produce la mayor generación de energia solar es entre los meses de junio y agosto teniendo el pico de generacion en el mes de julio. Estos meses corresponden a los meses de verano, meses con la mayor incidencia de radiacion solar. 
+Como se puede observar, los meses en los que se produce la mayor generación de energía solar es entre los meses de junio y agosto teniendo el pico de generación en el mes de julio. Estos meses corresponden a los meses de verano, meses con la mayor incidencia de radiación solar.
 
 ##
 
@@ -51,15 +51,15 @@ Como se puede observar, los meses en los que se produce la mayor generación de 
 <p align="center">
 <img width="830" height="299" alt="image" src="https://github.com/user-attachments/assets/1955f0c2-8700-4772-8c85-2441a6214204" />
 </p>
-Tal y como se puede apreciar entre los años 2015 y 2018, el año 2017 corresponde al año en donde se produjo el pico de generación de energia solar.
+Tal y como se puede apreciar entre los años 2015 y 2018, el año 2017 corresponde al año en donde se produjo el pico de generación de energía solar.
 
 ##
 
-* #### Comportamiento ciclico de la generación: 
+* #### Comportamiento cíclico de la generación: 
 <p align="center">
 <img width="830" height="292" alt="image" src="https://github.com/user-attachments/assets/0b4111af-958d-486d-ac25-00268cdf46a0" />
 </p>
-Aquí podemos observar como la generación de energia solar presenta un comportamiento ciclico en donde la producción de energia se dispara en los meses de verano produciendose así picos de generacion todos los meses de julio desde el 2015 al 2018, mientras que los meses de invierno vemos como la generacion disminuye presentandose los minimos de generación entre los meses de enero y diciembre. 
+Aquí podemos observar como la generación de energía solar presenta un comportamiento cíclico en donde la producción de energía se dispara en los meses de verano produciéndose así picos de generación todos los meses de julio desde el 2015 al 2018, mientras que los meses de invierno vemos como la generación disminuye presentándose los mínimos de generación entre los meses de enero y diciembre.
 
 ##
 
@@ -67,24 +67,24 @@ Aquí podemos observar como la generación de energia solar presenta un comporta
 <p align="center">
 <img width="664" height="361" alt="image" src="https://github.com/user-attachments/assets/c5710174-6b6c-410e-8a9f-82aea171ecec" />
 </p>
-Dentro de los cuatro años entre 2015 y 2018, la energia solar nunca deja de posicionarse en el sexto lugar del top 7 de las principales fuentes de energia en España.
+Dentro de los cuatro años entre 2015 y 2018, la energía solar nunca deja de posicionarse en el sexto lugar del top 7 de las principales fuentes de energía en España.
 
 ##
 
-* #### Generacion a lo largo del dia: 
+* #### Generación a lo largo del día: 
 <p align="center">
 <img width="664" height="367" alt="image" src="https://github.com/user-attachments/assets/4a3f257b-c22c-42c7-bfd1-4e95b2a903e9" />
 </p>
-Se puede observar como a medida que se avanza hacia las 07:00 a.m. la generacion de energia empieza a aumentar y alcanza su punto maximo entre las 12:00 p.m y las 3:00 p.m para despues empezar a decrecer coincidiendo como se ha de esperar con la salida del sol en la mañana y con el cenit del dia alrededor de las 12:00 p.m - 01:00 p.m.
+Se puede observar como a medida que se avanza hacia las 07:00 a.m. la generación de energía empieza a aumentar y alcanza su punto máximo entre las 12:00 p.m. y las 3:00 p.m. para después empezar a decrecer coincidiendo como se ha de esperar con la salida del sol en la mañana y con el cenit del día alrededor de las 12:00 p.m. - 01:00 p.m.
 
 
 ##
 
-* #### Generacion a lo largo del dia vs porcentaje de humedad: 
+* #### Generación a lo largo del día vs porcentaje de humedad: 
 <p align="center">
 <img width="605" height="345" alt="image" src="https://github.com/user-attachments/assets/27735c04-6d94-4d6a-9372-4eaa3109981f" />
 </p>
-Al comparar el comportamiento de la generación de energia con el comportamiento del porcentaje de humedad relativa a lo largo de un dia se puede observar que en general, alrededor de las 06:00 a.m. - 07:00 a.m. cuando el porcentaje de humedad relativa empieza a disminuir, la generacion de energia empieza a aumentar. Por el contrario, alrededor de las 04:00 p.m. cuando el porcentaje de humedad empieza a subir la generacion empieza a disminuir. 
+Al comparar el comportamiento de la generación de energía con el comportamiento del porcentaje de humedad relativa a lo largo de un día se puede observar que en general, alrededor de las 06:00 a.m. - 07:00 a.m. cuando el porcentaje de humedad relativa empieza a disminuir, la generación de energía empieza a aumentar. Por el contrario, alrededor de las 04:00 p.m. cuando el porcentaje de humedad empieza a subir la generación empieza a disminuir.
 
 ##
 
@@ -92,14 +92,18 @@ Al comparar el comportamiento de la generación de energia con el comportamiento
 <p align="center">
 <img width="605" height="336" alt="image" src="https://github.com/user-attachments/assets/57df3eca-e5db-41c8-a4e1-3cfb74a7f268" />
 </p>
+En este grafico podemos observar cómo es que se relacionan la generación solar a lo largo del día con el porcentaje de nubosidad. Claramente se puede evidenciar como en promedio, alrededor de las 09:00 a.m. el porcentaje de nubosidad comienza a disminuir y la cantidad de energía generada empieza a aumentar hasta alrededor de la 01:00 p.m. en donde a pesar de que el porcentaje de nubosidad sigue decreciendo, la energía generada empieza a disminuir. Esto ocurre principalmente debido a que el sol deja su cenit y empieza a ocultarse disminuyendo consigo la cantidad de radiación solar.
 
 
 ##
 
-* #### Generacion a lo largo del dia vs temperatura promedio: 
+* #### Generación a lo largo del día vs temperatura promedio: 
 <p align="center">
 <img width="605" height="346" alt="image" src="https://github.com/user-attachments/assets/4fe26798-9df3-4403-b705-4f91f4d015df" />
 </p>
+
+
+
 
 ##
 
