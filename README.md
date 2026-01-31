@@ -101,8 +101,13 @@ En este grafico podemos observar cómo es que se relacionan la generación solar
 <p align="center">
 <img width="605" height="346" alt="image" src="https://github.com/user-attachments/assets/4fe26798-9df3-4403-b705-4f91f4d015df" />
 </p>
+Como se puede observar en este gráfico, al comparar la temperatura media a lo largo del día con la generación solar podemos observar que la generación de energía va en consonancia con la temperatura media; sube la temperatura y con ello aumenta la generación, disminuye la temperatura y en consecuencia también lo hace la generación.
 
 
+>[!NOTE]
+
+
+>a medida que se llega a medio dia la temperatura va aumentando, conduciendo a una disminucion de la humedad y en consecuencia generando las condiciones climaticas propicias para una disminucion del porcentaje de nubosidad; variable cuya relacion  con la generacion solar no es correlacional sino causal ya que a mayor porcentaje de nubosidad menor indice de radiacion solar y por ende menor generacion de energia solar. La temperatura aumenta a medio dia a medida que el sol va alcanzando su punto maximo ya que la radiacion solar incidente es mayor y va disminuyendo a medida que el sol se oculta por lo que podemos concluir de manera intuitiva que las tres variables que afectan la generacion solar en nuestro analisis (temeperatura media, % humedad y % de nubosidad) tienen una relacion no causal con la generación ya que en particular, el % nubosidad y % de humedad dependen de la temperatura media que a su vez depende del indice de radiacion solar.
 
 
 ##
