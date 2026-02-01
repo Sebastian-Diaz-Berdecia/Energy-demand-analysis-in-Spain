@@ -105,22 +105,34 @@ Como se puede observar en este gráfico, al comparar la temperatura media a lo l
 
 
 >[!NOTE]
+En base a las relaciones observadas entre las variables atmosféricas y la generación solar, podemos concluir que el porcentaje de humedad y la temperatura media a lo largo del día son las variables que mayor repercusión tienen sobre la generación de energía solar. Una disminución pronunciada en el porcentaje de humedad conlleva a un aumento significativo de la generación solar, mientras que un aumento de la temperatura implica un aumento de la generación solar.
+
+>En base a esto se puede inferir una fuerte correlación entre ambas variables y la generación solar, pero sería precipitado concluir que existe una relación causal ya que como se sabe, la temperatura influye en el porcentaje de humedad a lo largo del día y a su vez, la temperatura depende de la cantidad de luz solar (o radiación solar) a lo largo del día por lo que realmente la generación va a depender de la hora del día y de la estación del año. Sin embargo, podemos concluir que una estimación del porcentaje de humedad y la temperatura media pueden servir como buenos elementos para predecir el comportamiento de la generación de energía solar y así estimar la demanda a futuro ya que ambas variables están relacionadas a los niveles de radiación solar.
+
+>Cabe resaltar también la importancia de la estación del año y su impacto directo en la temperatura media y por ende también en los niveles de radiación solar por lo que un buen análisis predictivo de la generación debería también incluir este detalle en cuenta.
 
 
->a medida que se llega a medio dia la temperatura va aumentando, conduciendo a una disminucion de la humedad y en consecuencia generando las condiciones climaticas propicias para una disminucion del porcentaje de nubosidad; variable cuya relacion  con la generacion solar no es correlacional sino causal ya que a mayor porcentaje de nubosidad menor indice de radiacion solar y por ende menor generacion de energia solar. La temperatura aumenta a medio dia a medida que el sol va alcanzando su punto maximo ya que la radiacion solar incidente es mayor y va disminuyendo a medida que el sol se oculta por lo que podemos concluir de manera intuitiva que las tres variables que afectan la generacion solar en nuestro analisis (temeperatura media, % humedad y % de nubosidad) tienen una relacion no causal con la generación ya que en particular, el % nubosidad y % de humedad dependen de la temperatura media que a su vez depende del indice de radiacion solar.
+>
+>
+>
+>porcentaje de humedad y la temperatura media son variables que al estar relacionadas con la cantidad de radiación solar pueden servir como buenos elementos para predecir el comportamiento de la generacion de energia solar y asi estimar la demanda a futuro. 
 
 
 ##
+
+* #### Variación interanual de la generación por ciudad: 
 
 <img width="488" height="500" alt="image" src="https://github.com/user-attachments/assets/872f9758-e95d-4ff5-bd99-3125cb4c75dd" />
 
 <img width="499" height="498" alt="image" src="https://github.com/user-attachments/assets/63113a95-08b0-488b-9bc9-5a7c2db08b05" />
 
+Aqui se puede observar como la generación de energía va cambiando de año a año. En general, de 2015 a 2016 en todas las ciudades se presenta una disminución de la generación de energía, de 2016 a 2017 la generación aumenta y finalmente de 2017 a 2018 vuelve a disminuir. Estas variaciones interanuales de la generación son muy similares de ciudad a ciudad.
+
 ##
 
 
 >[!NOTE]
->En la parte izquierda del tablero se pueden apreciar cuatro segementaciones, una para el año/periodo, otra para el país, la tercera para la marca y la última para el cliente. De esta manera podemos filtrar/segmentar el análisis para responder a las preguntas de negocio según corresponda. El segmentador de año esta configurado para mostrar solo un periodo a la vez, en este caso esta configurado para mostrar todo el análisis para el periodo 2020. 
+>
 
 
 ---
