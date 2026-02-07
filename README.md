@@ -115,14 +115,13 @@ Como se puede observar en este gráfico, al comparar la temperatura media a lo l
 Aqui se puede observar como la generación de energía va cambiando de año a año. En general, de 2015 a 2016 en todas las ciudades se presenta una disminución de la generación de energía, de 2016 a 2017 la generación aumenta y finalmente de 2017 a 2018 vuelve a disminuir. Estas variaciones interanuales de la generación son muy similares de ciudad a ciudad.
 
 
-## 📖 Conclusiones 
+## 📖 Conclusión 
 
 En base a las relaciones observadas entre las variables atmosféricas y la generación solar, podemos concluir que el porcentaje de humedad y la temperatura media a lo largo del día son las variables que mayor repercusión tienen sobre la generación de energía solar. Una disminución pronunciada en el porcentaje de humedad conlleva a un aumento significativo de la generación solar, mientras que un aumento de la temperatura implica un aumento de la generación solar.
 
+En base a esto se puede inferir una fuerte correlación entre ambas variables y la generación solar, pero sería precipitado concluir que existe una relación causal, ya que como se sabe, la temperatura influye en el porcentaje de humedad a lo largo del día y a su vez, la temperatura depende de la cantidad de luz solar (o radiación solar) a lo largo del día por lo que realmente la generación va a depender de la hora del día y de la estación del año. Sin embargo, podemos concluir que una estimación del porcentaje de humedad y la temperatura media pueden servir como buenos elementos para predecir el comportamiento de la generación de energía solar y así estimar la demanda a futuro ya que ambas variables están relacionadas a los niveles de radiación solar.
 
-En base a esto se puede inferir una fuerte correlación entre ambas variables y la generación solar, pero sería precipitado concluir que existe una relación causal ya que como se sabe, la temperatura influye en el porcentaje de humedad a lo largo del día y a su vez, la temperatura depende de la cantidad de luz solar (o radiación solar) a lo largo del día por lo que realmente la generación va a depender de la hora del día y de la estación del año. Sin embargo, podemos concluir que una estimación del porcentaje de humedad y la temperatura media pueden servir como buenos elementos para predecir el comportamiento de la generación de energía solar y así estimar la demanda a futuro ya que ambas variables están relacionadas a los niveles de radiación solar.
-
-Cabe resaltar también la importancia de la estación del año y su impacto directo en la temperatura media y por ende también en los niveles de radiación solar por lo que un buen análisis predictivo de la generación debería también incluir este detalle en cuenta.
+Cabe resaltar también la importancia de la estación del año y su impacto directo en los niveles de radiación solar y por ende también en la temperatura media por lo que un buen análisis predictivo de la generación debería también incluir esta variable.
 
 
 
