@@ -12,32 +12,24 @@ El principal objetivo de este proyecto es analizar la evolución de la demanda/g
 
 ---
 
-## 🎨 Solar power generation vs Time 
+## 🎨 Generación de energía solar vs Tiempo
 
 <img width="1394" height="739" alt="image" src="https://github.com/user-attachments/assets/08361018-e1b6-437d-bf96-773b40a81cae" />
 
 
-## 🎨 Solar power generation vs Weather conditions
+## 🎨 Generación de energía solar vs Condiciones climaticas
+
 
 <img width="1286" height="743" alt="image" src="https://github.com/user-attachments/assets/6a44f4b0-9431-4fbd-ae74-81a6a2aa975c" />
 
 
-## 🎨 Year-on-year variation solar power generation 
+## 🎨 Variación interanual de la generación de energía solar
+
 
 <img width="1105" height="738" alt="image" src="https://github.com/user-attachments/assets/6dc4bfb5-d0e1-4221-928a-16e2f520f519" />
 
 
-
-
-
-## 📖 Registros FuturoTecno
-
-A continuación se muestran los primeros 22 de los 1645 registros de los datos financieros de la empresa FuturoTecno para los periodos comprendidos entre los años 2020 y 2022. La tabla con todos los registros se puede encontrar en el libro de excel en los archivos adjuntos.
-
-<img width="1149" height="621" alt="image" src="https://github.com/user-attachments/assets/5fdb0482-b87a-40a4-9edd-bc67f099f185" />
-
-
-## 🔍 Cálculo de los ingresos, gastos, beneficios y márgenes totales
+## 🔍 Insights generación de energía solar 
 
 * #### Generación solar mensual entre 2015 y 2018: 
 <p align="center">
