@@ -91,7 +91,7 @@ En este grafico podemos observar cómo es que se relacionan la generación solar
 
 ##
 
-* #### Generación a lo largo del día vs temperatura promedio: 
+* #### Generación a lo largo del día vs. temperatura promedio: 
 <p align="center">
 <img width="605" height="346" alt="image" src="https://github.com/user-attachments/assets/4fe26798-9df3-4403-b705-4f91f4d015df" />
 </p>
