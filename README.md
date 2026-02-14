@@ -74,7 +74,7 @@ Se puede observar como a medida que se avanza hacia las 07:00 a.m. la generació
 
 ##
 
-* #### Generación a lo largo del día vs porcentaje de humedad: 
+* #### Generación a lo largo del día vs. porcentaje de humedad: 
 <p align="center">
 <img width="605" height="345" alt="image" src="https://github.com/user-attachments/assets/27735c04-6d94-4d6a-9372-4eaa3109981f" />
 </p>
@@ -82,7 +82,7 @@ Al comparar el comportamiento de la generación de energía con el comportamient
 
 ##
 
-* #### Generación a lo largo del día vs porcentaje de nubosidad:
+* #### Generación a lo largo del día vs. porcentaje de nubosidad:
 <p align="center">
 <img width="605" height="336" alt="image" src="https://github.com/user-attachments/assets/57df3eca-e5db-41c8-a4e1-3cfb74a7f268" />
 </p>
